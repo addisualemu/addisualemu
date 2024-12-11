@@ -7,7 +7,7 @@
 I'm a passionate Full-Stack Developer specializing in JavaScript, React, and Node.js. With a Bachelor's degree in Computer Science from Addis Ababa University, I have developed and contributed to various web applications and open-source projects. Currently based in Dublin, Ohio, I'm open to new opportunities in the tech industry.
 
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [addisu@example.com](mailto:addisudalemu@gmail.com)
+- 📫 How to reach me: [addisudalemu@gmail.com.com](mailto:addisudalemu@gmail.com)
 - ⚡ Fun fact: I love film makeing and photography
 
 
@@ -18,8 +18,6 @@ I'm a passionate Full-Stack Developer specializing in JavaScript, React, and Nod
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/addisu-alemu/)
 
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/AddisuAlemu)
 
 ## 📊 Weekly Development Breakdown (Mostly Estimates)
 
