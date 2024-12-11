@@ -10,10 +10,8 @@ I'm a passionate Full-Stack Developer specializing in JavaScript, React, and Nod
 - 📫 How to reach me: [addisudalemu@gmail.com.com](mailto:addisudalemu@gmail.com)
 - ⚡ Fun fact: I love film makeing and photography
 
-
 ## 🏆 GitHub Trophies
-
-![Addisu's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=addisudamena&theme=radical)
+![Addisu's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=johnsales&theme=algolia)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/addisu-alemu/)
