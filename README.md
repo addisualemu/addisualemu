@@ -4,10 +4,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Developer specializing in JavaScript, React, and Node.js. With a Bachelor's degree in Computer Science from Addis Ababa University, I have developed and contributed to various web applications and open-source projects. Currently based in Dublin, Ohio, I'm open to new opportunities in the tech industry.
+I'm a passionate Full-Stack Developer specializing in Springboot, Angular, and Python. With a Bachelor's degree in Computer Science and Engineering, Masters in Computer Science and Software Engineering, I have developed and contributed to various web applications and open-source projects. Currently based in Columbus, Ohio, I'm open to new opportunities in the tech industry.
 
-- 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [addisudalemu@gmail.com.com](mailto:addisudalemu@gmail.com)
+- 👯 I’m looking to collaborate on open-source projects 
+- 📫 How to reach me: [addisudalemu@gmail.com](mailto:addisudalemu@gmail.com)
 - ⚡ Fun fact: I love film makeing and photography
 
 ## 🏆 GitHub Trophies
